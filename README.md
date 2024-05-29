@@ -26,7 +26,8 @@ I'm a passionate Android Developer with experience in building high-quality mobi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmoud-ragap-3a9973219/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:maragap77@gmail.com)
 
+### <img src="https://raw.githubusercontent.com/mahmoudragap77/mahmoudragap77/output/snake.svg" alt="Snake animation" />
 
 
-### [Project 1: Animated Snack Bar Library](https://github.com/yourusername/animated-snack-bar-library)
+
 Thanks for visiting my profile!
