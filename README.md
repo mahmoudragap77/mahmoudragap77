@@ -10,6 +10,15 @@ I'm a passionate Android Developer with experience in building high-quality mobi
 - 💬 Ask me about Android development, Kotlin, Java, and mobile app architecture.
 - ⚡ Fun fact: i love playing football so i can do anything to play it even if i didn't sleep.
 
+<img src="https://raw.githubusercontent.com/mahmoudragap77/mahmoudragap77/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mahmoudragap77/count.svg?"  />
+</div>
+
+###
 ## 🛠️ Technologies & Tools
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
