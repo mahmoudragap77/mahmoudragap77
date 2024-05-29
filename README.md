@@ -1,5 +1,7 @@
 # Hello, I'm Mahmoud Ragap 👋
+<img src="https://raw.githubusercontent.com/mahmoudragap77/mahmoudragap77/output/snake.svg" alt="Snake animation" />
 
+###
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green&style=flat-square)
 
 ## 👨‍💻 About Me
